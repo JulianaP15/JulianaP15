@@ -8,7 +8,7 @@
 
 ## 🚀 What you'll find here
 - 📒 Exercises and class projects in **Python for biological sciences**.  
-- 🧬 Simple scripts for parsing biological file formats (FASTA, GenBank, SBML, etc.).  
+- 🧬 Simple scripts for parsing biological file formats (FASTA, GenBank, SNPs, etc.).  
 - 📊 Data analysis notebooks with **pandas**, **matplotlib**, **seaborn**, **SciPy**, and **Statsmodels**.  
 - 🌱 Small experimental projects translated into code as part of my learning process.  
 
